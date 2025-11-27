@@ -40,4 +40,4 @@ Dive deeper in AI Mode
 
 recipe-app · GitHub Topics
 
-![image alt]()
+![image alt](https://github.com/sriramkrishnakadiyam/Recipe-Maker-master/blob/3f7ede1dac90f328437634d99d9210c106774eae/Screenshot%202025-11-27%20145036.png)
