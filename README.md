@@ -18,13 +18,9 @@
   <img src="https://github.com/YashNagare/Recipes-App/blob/master/screenshots/Recipe_Steps.jpeg" title="Chatbot-2" height="450px" width="225px">
 </p>
 
-## Tech Stack 💻
-<ul>
-<li>Kotlin</li>
-<li>XML</li>
-</ul>
 
-## Credits
+
+
 This project was developed with the help of the following YouTube tutorial:
 <ul><li><a href="https://www.youtube.com/watch?v=FtyEIR_ox6Y&t">Recipes App Tutorial in Hindi</a> by <em>Neat Roots</em></li></ul>
 
