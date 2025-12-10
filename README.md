@@ -1,5 +1,4 @@
 # Recipes App ✨
-![Android-kotlin](https://img.shields.io/badge/Android-Kotlin-blue.svg) ![glide](https://img.shields.io/badge/Library-Glide-orange.svg)
 
 ## Introduction
 <li>Welcome to the Recipe App! This Android application is built with Kotlin and is designed to help users discover new recipes.</li>
@@ -21,9 +20,4 @@
 
 
 
-This project was developed with the help of the following YouTube tutorial:
-<ul><li><a href="https://www.youtube.com/watch?v=FtyEIR_ox6Y&t">Recipes App Tutorial in Hindi</a> by <em>Neat Roots</em></li></ul>
 
-## 🤩 Don't forget to give ⭐ to this repository
-<img src="https://forthebadge.com/images/badges/built-with-love.svg">
-<img src="https://forthebadge.com/images/badges/made-with-kotlin.svg">
